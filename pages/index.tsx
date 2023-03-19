@@ -38,33 +38,31 @@ const Home: NextPage = () => {
             <div className={styles.heroBody}>
               <h1 className={styles.heroTitle}>
                 <span className={styles.heroTitleGradient}>
-                  Build NFT Marketplaces
+                  On Sale NFT Marketplaces
                 </span>
                 <br />
-                faster than ever.
+                For Sun Verse.
               </h1>
               <p className={styles.heroSubtitle}>
                 <Link
                   className={styles.link}
-                  href="https://thirdweb.com"
+                  href="https://arigatousun.com"
                   target="_blank"
                 >
-                  thirdweb
+                  SUN
                 </Link>{" "}
-                gives you the tools you need to create audited, performant, and
-                flexible NFT marketplaces in <b>hours</b>, <i>not months</i>.
+                provides an audited, high performance and flexible NFT marketplace.                
               </p>
-
-              <div className={styles.heroCtaContainer}>
+                <div className={styles.heroCtaContainer}>
                 <Link className={styles.heroCta} href="/buy">
                   Get Started
                 </Link>
                 <Link
                   className={styles.secondaryCta}
-                  href="https://github.com/thirdweb-example/marketplace-v3"
+                  href="https://arigatousun.com"
                   target="_blank"
                 >
-                  GitHub
+                  SUN.HP
                 </Link>
               </div>
             </div>
