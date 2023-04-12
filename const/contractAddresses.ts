@@ -7,7 +7,7 @@ export const NETWORK = Binance;
 
 // 2. The address of the marketplace V3 smart contract.
 // Deploy your own: https://thirdweb.com/thirdweb.eth/MarketplaceV3
-export const MARKETPLACE_ADDRESS = "0xE4b80f5ee25244292DfF34e51c3f66EdaA8bbb17";
+export const MARKETPLACE_ADDRESS = "0x184f9e9c5d7b134C4F4F95836b6e20210438d2FC";
 
 // 3. The address of your NFT collection smart contract.
 export const NFT_COLLECTION_ADDRESS =
